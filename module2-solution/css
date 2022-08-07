@@ -1,3 +1,26 @@
+/* Media Query for Mobile Devices */
+@media (max-width: 767px) {
+            body {
+                background-color: white;
+            }
+        }
+          
+/* Media Query for Tablets */
+        @media (min-width: 768px ) and (max-width: 991px) {
+            body {
+                background-colorwhite;
+            }
+        }
+    
+          
+/* Media Query for Desktops */
+        @media (min-width: 992px ){
+            body {
+                background-color: white;
+            }
+        }
+          
+       
 h1{
   text-align:center
 }
